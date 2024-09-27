@@ -1,0 +1,27 @@
+{
+  "name": "Franco Colapinto",
+  "description": "Este es mi primer NFT creado con Solidity y Pinata.",
+  "image": "ipfs://QmaT6m4QFpoQ8wA3jCZXADHRHRqejE8bwJiucHktWGFK4w",
+  "attributes": [
+    {
+      "trait_type": "Escuderia",
+      "value": "Williams Racing"
+    },
+    {
+      "trait_type": "Pais",
+      "value": "Argentina"
+    },
+    {
+      "trait_type": "Edad",
+      "value": "21"
+    },
+    {
+      "trait_type": "Numero",
+      "value": "43"
+    },
+    {
+      "trait_type": "Carrera",
+      "value": "Formula 1"
+    }
+  ]
+}
